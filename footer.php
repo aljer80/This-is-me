@@ -1,5 +1,5 @@
 
-<footer>MIN FOOTER</footer>
+<footer>FOOTER</footer>
 
 <? wp_footer(); ?>
 </body>
